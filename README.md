@@ -4,12 +4,14 @@ Notes on my long (and tangled) toolchain.
 
 ## Projects / Needs / Goals…
 
-* Editing Markdown
-* Java (AP Computer Science)
-* C# (Unity)
-* C and C++ (Arduino)
-* Ruby (Canvas)
-* HTML, CSS, JavaScript, and friends
+* Writing
+    * Markdown
+* Coding
+    * Java (AP Computer Science)
+    * C# (Unity)
+    * C and C++ (Arduino)
+    * Ruby (Canvas)
+    * HTML, CSS, JavaScript, and friends
 
 ## Editing Markdown
 
