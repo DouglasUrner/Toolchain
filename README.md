@@ -24,7 +24,12 @@ The platform I really care about is Unix/macOS, but I do have to work on Windows
 * [Turn Atom into the Best Markdown Editor for Mac][bd5237b3]
 * [Use Atom as your Markdown editor][a2abaecd]
 
+A folding editor is a big deal.
+
+Converting between text formats: [Pandoc][]
+
   [atom]: <https://atom.io>
+  [pandoc]: <https://pandoc.org>
   [bd5237b3]: https://www.news47ell.com/how-to/atom-best-markdown-editor-mac/ "1"
   [a2abaecd]: https://discountry.github.io/2017/02/15/use-atom-as-your-markdown-editor/ "2"
 
