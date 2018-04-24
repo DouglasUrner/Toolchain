@@ -4,18 +4,14 @@ Notes on my long (and tangled) toolchain.
 
 ## Projects / Needs / Goals…
 
-* Editing Markdown
-* Creating presentations – mostly for coding
-* Java (AP Computer Science)
-* C# (Unity)
-* C and C++ (Arduino)
-* Ruby (Canvas)
-* HTML, CSS, JavaScript, and friends
-* Lab (Windows) management
-
-Integration with Git and GitHub is a big deal and I'd like to have everything working in Atom – even though for coding I primarily use JetBrains IDEs. Partly the two editors have different use cases – among other things Atom is blindly fast compared to any of the JetBrains IDEs. Also, using two different sets of tools makes it harder to get "caught" in the ways of one set of tools.
-
-The platform I really care about is Unix/macOS, but I do have to work on Windows, so cross-platform tools count for a lot.
+* Writing
+    * Markdown
+* Coding
+    * Java (AP Computer Science)
+    * C# (Unity)
+    * C and C++ (Arduino)
+    * Ruby (Canvas)
+    * HTML, CSS, JavaScript, and friends
 
 ## Editing Markdown
 
