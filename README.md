@@ -5,13 +5,16 @@ Notes on my long (and tangled) toolchain.
 ## Projects / Needs / Goals…
 
 * Writing
-    * Markdown
+  - Markdown
 * Coding
-    * Java (AP Computer Science)
-    * C# (Unity)
-    * C and C++ (Arduino)
-    * Ruby (Canvas)
-    * HTML, CSS, JavaScript, and friends
+  - Java (AP Computer Science)
+  - C# (Unity)
+  - C and C++ (Arduino)
+  - Ruby (Canvas)
+  - HTML, CSS, JavaScript, and friends
+* Configuration Management
+  - Dot Files
+  - Lab Images
 
 ## Editing Markdown
 
