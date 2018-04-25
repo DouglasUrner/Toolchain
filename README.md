@@ -12,11 +12,15 @@ Notes on my long (and tangled) toolchain.
   - C and C++ (Arduino)
   - Ruby (Canvas)
   - HTML, CSS, JavaScript, and friends
+* Surviving on Windows
 * Configuration Management
   - Dot Files
+  - Synchronization
   - Lab Images
 
-## Editing Markdown
+## Writing
+
+### Editing Markdown
 
 [Atom][] is close to my editor of choice (it reminds me of emacs). These two posts were helpful in selecting packages for working in Markdown:
 
@@ -32,7 +36,9 @@ Converting between text formats: [Pandoc][]
   [bd5237b3]: https://www.news47ell.com/how-to/atom-best-markdown-editor-mac/ "1"
   [a2abaecd]: https://discountry.github.io/2017/02/15/use-atom-as-your-markdown-editor/ "2"
 
-## Code Editing
+### Presentations
+
+## Coding
 
 For "purpose built" IDEs the [JetBrains][1a422cf3] tools are hard to beat.
 
@@ -41,3 +47,22 @@ For "purpose built" IDEs the [JetBrains][1a422cf3] tools are hard to beat.
 ## Surviving on Windows
 
 Git Bash
+
+
+## Configuration Management
+
+### Dot Files
+
+[dotfiles][]
+
+[dotfiles]: <https://dotfiles.github.io>
+
+Bash (shell)
+Git
+Atom
+
+
+### Synchronization
+### Lab Images
+
+Chocolatey
