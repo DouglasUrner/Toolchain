@@ -6,7 +6,7 @@ Notes on my long (and tangled) toolchain.
 
 * Writing
   - Markdown
-* Coding
+* [Coding][]
   - Java (AP Computer Science)
   - C# (Unity)
   - C and C++ (Arduino)
@@ -17,6 +17,8 @@ Notes on my long (and tangled) toolchain.
   - Dot Files
   - Synchronization
   - Lab Images
+
+[coding]: <https://github.com/DouglasUrner/Toolchain/tree/master/Coding>
 
 ## Writing
 
