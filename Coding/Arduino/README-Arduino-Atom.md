@@ -7,3 +7,15 @@ There seem to be two approaches to using the PlatformIO tools for Arduino develo
 [platformio-ide]: <>
 [platformio-atom]: <https://atom.io/packages/platomformio>
 [platformio-org]: <https://platformio.org>
+
+## Components
+
+* PlatformIO command line tools
+* platformio package for Atom
+* terminal-plus package for Atom
+
+## Installation
+
+1. Install the PlatformIO command line tools.
+2. Install the platformio package in Atom.
+3.
