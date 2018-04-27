@@ -2,7 +2,7 @@
 
 ## [Reveal.js][revealjs]
 
-[revealjs.com][revealjs] the [source][revealjs-github] is on GitHub.
+[revealjs.com][revealjs] the source and  [installation instructions][revealjs-github] are on GitHub.
 
 [revealjs-preview][]
 
@@ -18,7 +18,17 @@ online editor https://slides.com free public decks, ala GitHub.
 [revealjs-md]: <http://webpro.github.io/reveal-md/>
 [reveal-ck]: <>
 
+### Components
+
+* Node.js
+* grunt
+* Reveal.js
+* present
+* decktape
+
 ### Installation and Setup
+
+In order to have presenter notes a "full installation" of Reveal.js is required.
 
 #### Reveal full installation
 
@@ -47,8 +57,9 @@ To test:
 
 
 * Atom packages
-* reveal-ck
+* [reveal-ck][]
   `gem install reveal-ck`
 
 [zharley]: <https://github.com/zharley>
 [zharley-reveal]: <http://zenonharley.com/html5/css3/2015/12/07/presentation-tools-for-programmers-reveal-js.html>
+[reveal-ck]: <https://jedcn.github.io/reveal-ck/>
