@@ -30,3 +30,11 @@
 # If you are unfamiliar with CSON, you can read more about it in the
 # Atom Flight Manual:
 # http://flight-manual.atom.io/using-atom/sections/basic-customization/#configuring-with-cson
+
+# Markdown Folding
+#
+'atom-text-editor[data-grammar="text md"]:not([mini])':
+  'cmd-alt-[': 'markdown-folding:cycle'
+  'cmd-k space': 'markdown-folding:cycle'
+  'cmd-k cmd-1': 'markdown-folding:foldall-h1'
+  'cmd-k cmd-2': 'markdown-folding:foldall-h2'
