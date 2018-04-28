@@ -50,6 +50,7 @@ This tests that Node and Reveal.js are alive and well – if all is right with 
 * `git clone https://github.com/douglasurner/present.git` (my fork)
 * `cd present`
 * `npm install`
+* `npm install -g decktape`
 
 To test:
 
