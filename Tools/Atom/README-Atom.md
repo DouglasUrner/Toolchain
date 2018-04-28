@@ -4,7 +4,7 @@ Notes specific to writing and coding with Atom are in their respective sections.
 
 ## Configuration Management
 
-Goals:
+**Goals:**
 
 * Relatively easy to track and backout configuation changes.
   * Keeping the configuation under git in sync with the "live" configuation.
@@ -19,3 +19,16 @@ The current strategy is to put the configuation files in dot-Atom which is withi
 * Put .atom under revision control
 * Atom packages
 * External build management tool
+
+## Themes
+
+**Goals:**
+
+* Select the syntax theme based on the file type being edited ([multi-theme-applicator][]).
+* A writing syntax theme that is pleasent to look at and that converts to a PDF with good fidelity to the preview.
+* A coding syntax theme that takes works well with syntax highlighting, and
+* Possibly a presentation theme.
+
+[multi-theme-applicator]: <https://atom.io/packages/multi-theme-applicator>
+
+## Fonts
