@@ -1,30 +1,58 @@
 # HTML5 Presertation Systems
 
+**Goals:**
+
+* Manage presentations on GitHub.
+* Present source using live files (extract on the fly from GitHub?) with syntax highlighting.
+* Embed media (e.g., link to a TED talk and play it without a lot of fiddling around).
+* Link into Canvas (or another LMS).
+* Presenter view with speaker Notes
+* Run commands from the presentation.
+* Authoring support – ability to write slides in Markdown and, at least, a decent preview mode.
+
 ## [Reveal.js][revealjs]
 
-[revealjs.com][revealjs] the source and  [installation instructions][revealjs-github] are on GitHub.
-
-[revealjs-preview][]
-
-[revealjs-md]
-
-[reveal-ck][] - command line tools for generating Reveal.js slides.
-
-online editor https://slides.com free public decks, ala GitHub.
-
 [revealjs]: <revealjs.com>
-[revealjs-github]: <https://github.com/hakimel/reveal.js/>
-[revealjs-preview]: <https://atom.io/packages/revealjs-preview>
-[revealjs-md]: <http://webpro.github.io/reveal-md/>
-[reveal-ck]: <>
 
 ### Components
 
-* Node.js
-* grunt
-* Reveal.js
-* present
-* decktape
+#### Core Installation
+
+* [Node.js][]
+* [grunt][]
+* [Reveal.js][revealjs-github]
+
+[node.js]: <>
+[grunt]: <>
+[revealjs-github]: <https://github.com/hakimel/reveal.js/>
+
+#### Add-ons
+
+* [reveal-ck][] - command line tools for generating Reveal.js slides.
+  * [Source code][reveal-ck-src]
+  * [Documentation][reveal-ck-docs]
+* [present][] - command line tools for bootstrapping and managing a Reveal.js presentation.
+* [decktape][] - extracts PDF version of a number of different HTML presentation formats from the server.
+
+[reveal-ck]: <http://jedcn.github.io/reveal-ck/>
+[reveal-ck-src]: <https://github.com/jedcn/reveal-ck>
+[reveal-ck-docs]: <https://relishapp.com/jedcn/reveal-ck/docs>
+[present]: <https://github.com/zharley/present>
+[decktape]: <https://github.com/astefanutti/decktape>
+
+#### Atom Packages
+
+* [revealjs-preview][]
+* [revealjs-md][]
+
+[revealjs-preview]: <https://atom.io/packages/revealjs-preview>
+[revealjs-md]: <http://webpro.github.io/reveal-md/>
+
+#### Related tools
+
+* [On-line editor at Slides.com][slides.com] – free for public decks, ala GitHub.
+
+[slides.com]: <https://slides.com>
 
 ### Installation and Setup
 
