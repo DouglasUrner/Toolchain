@@ -1,5 +1,8 @@
 "*":
   core:
+    disabledPackages: [
+      "language-gfm"
+    ]
     telemetryConsent: "limited"
   editor:
     softWrapAtPreferredLineLength: true
