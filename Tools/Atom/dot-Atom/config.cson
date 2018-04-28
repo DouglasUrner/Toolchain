@@ -4,6 +4,10 @@
       "language-gfm"
     ]
     telemetryConsent: "limited"
+    themes: [
+      "one-dark-ui"
+      "pen-paper-coffee-syntax"
+    ]
   editor:
     softWrapAtPreferredLineLength: true
   "exception-reporting":
