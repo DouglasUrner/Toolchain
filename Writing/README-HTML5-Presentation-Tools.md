@@ -29,11 +29,17 @@
 
 #### Add-ons
 
+Markdown doesn't have native support for including a file in a Markdown document. There are a number of preprocessors available:
+
+* [MarkdownPP][md-pp]
+
 * [reveal-ck][] - command line tools for generating Reveal.js slides.
   * [Source code][reveal-ck-src]
   * [Documentation][reveal-ck-docs]
 * [present][] - command line tools for bootstrapping and managing a Reveal.js presentation.
 * [decktape][] - extracts PDF version of a number of different HTML presentation formats from the server.
+
+[md-pp]: <https://github.com/jreese/markdown-pp>
 
 [reveal-ck]: <http://jedcn.github.io/reveal-ck/>
 [reveal-ck-src]: <https://github.com/jedcn/reveal-ck>
@@ -93,3 +99,33 @@ To test:
 [zharley]: <https://github.com/zharley>
 [zharley-reveal]: <http://zenonharley.com/html5/css3/2015/12/07/presentation-tools-for-programmers-reveal-js.html>
 [reveal-ck]: <https://jedcn.github.io/reveal-ck/>
+
+## How To
+
+### Embed Media
+
+#### Video
+
+A YouTube embed link (iframe) can be pasted into a slide. The following template works well on an otherwise blank slide at 16x9:
+
+```html
+<iframe width="1200" height="675"
+  src="https://www.youtube.com/embed/VIDEO_ID?rel=0&showinfo=0&modestbranding=1&iv_load_policy=3&nologo=1"
+  frameborder="0" allow="encrypted-media" allowfullscreen>
+</iframe>
+```
+[YouTube Embedded Players and Player Parameters]( https://developers.google.com/youtube/player_parameters)
+
+[Using YouTube Modest Branding on Your Website]( http://www.adeliestudios.com/youtube-modest-branding-website/)
+
+[How To Make YouTube Videos Look Great]( http://workshed.com/2014/07/02/make-youtube-videos-look-great/)
+
+#### Audio
+
+To play with a slide or set of slides.
+
+### Presenter Notes
+
+### Include Code
+
+### Export As PDF
