@@ -102,6 +102,31 @@ To test:
 
 ## How To
 
+### Presenter Notes
+
+### Include Code
+
+Markdown doesn't have a way to include code natively, so a preprocessor has to be used if you want to keep you code in external files.
+
+#### What works now
+
+MarkdownPP has an include facility:
+
+```markdown
+!INCLUDE "path to file"
+```
+
+#### The ideal
+
+Support both direct inclusion of a local file and the ability to pull a file from GitHub - something like:
+
+```markdown
+!include "GitHub URL | or local path" begin end
+```
+Where *begin* and *end* are either line numbers or an ID in a magic comment that identifies the code to select. If they are missing then the whole file is included. 
+
+#### Syntax highlighting
+
 ### Embed Media
 
 #### Video
@@ -124,8 +149,6 @@ A YouTube embed link (iframe) can be pasted into a slide. The following template
 
 To play with a slide or set of slides.
 
-### Presenter Notes
-
-### Include Code
-
 ### Export As PDF
+
+Decktape
