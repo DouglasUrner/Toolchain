@@ -1,0 +1,75 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/d-118328-8509-1iyxokm.zwuje5ewmi/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/d-118328-8509-1iyxokm.zwuje5ewmi/package.tgz",
+        "spec": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/d-118328-8509-1iyxokm.zwuje5ewmi/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/apm-install-dir-118328-8509-r2qvc2.as1ufbhuxr"
+    ]
+  ],
+  "_from": "../d-118328-8509-1iyxokm.zwuje5ewmi/package.tgz",
+  "_id": "asciidoc-assistant@0.2.2",
+  "_inCache": true,
+  "_location": "/asciidoc-assistant",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/d-118328-8509-1iyxokm.zwuje5ewmi/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/d-118328-8509-1iyxokm.zwuje5ewmi/package.tgz",
+    "spec": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/d-118328-8509-1iyxokm.zwuje5ewmi/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-118328-8509-1iyxokm.zwuje5ewmi/package.tgz",
+  "_shasum": "ad2ccc7897ea2b3ebdd5f0aed1826ba4ffcec26f",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/d-118328-8509-1iyxokm.zwuje5ewmi/package.tgz",
+  "_where": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/apm-install-dir-118328-8509-r2qvc2.as1ufbhuxr",
+  "bugs": {
+    "url": "https://github.com/asciidoctor/atom-asciidoc-assistant/issues"
+  },
+  "dependencies": {
+    "atom-package-deps": "~4.0.1"
+  },
+  "description": "Makes working with AsciiDoc in Atom awesome.",
+  "devDependencies": {
+    "coffeelint": "^1.15.0"
+  },
+  "engines": {
+    "atom": ">=1.5.3 <2.0.0"
+  },
+  "homepage": "https://github.com/asciidoctor/atom-asciidoc-assistant#readme",
+  "keywords": [
+    "asciidoctor",
+    "asciidoc",
+    "assistant",
+    "writer"
+  ],
+  "license": "MIT",
+  "main": "./lib/main",
+  "name": "asciidoc-assistant",
+  "optionalDependencies": {},
+  "package-deps": [
+    "language-asciidoc",
+    "asciidoc-preview",
+    "autocomplete-asciidoc",
+    "asciidoc-image-helper"
+  ],
+  "readme": "# AsciiDoc Assistant Package\n\n[![Atom Package](https://img.shields.io/apm/v/asciidoc-assistant.svg)](https://atom.io/packages/asciidoc-assistant)\n[![Atom Package Downloads](https://img.shields.io/apm/dm/asciidoc-assistant.svg)](https://atom.io/packages/asciidoc-assistant)\n[![Build Status (Linux)](https://travis-ci.org/asciidoctor/atom-asciidoc-assistant.svg?branch=master)](https://travis-ci.org/asciidoctor/atom-asciidoc-assistant)\n[![Build status (Windows)](https://ci.appveyor.com/api/projects/status/gf8m9jl2rij7u9jh?svg=true)](https://ci.appveyor.com/project/asciidoctor/atom-asciidoc-assistant)\n[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/asciidoctor/atom-asciidoc-assistant/blob/master/LICENSE.md)\n\nThis package adds extra functionality to Atom for the AsciiDoc(octor) language by installing the following packages:\n\n- [language-asciidoc](https://github.com/asciidoctor/atom-language-asciidoc)\n- [asciidoc-preview](https://github.com/asciidoctor/atom-asciidoc-preview)\n- [autocomplete-asciidoc](https://github.com/asciidoctor/atom-autocomplete-asciidoc)\n- [asciidoc-image-helper](https://github.com/asciidoctor/atom-asciidoc-image-helper)\n",
+  "readmeFilename": "readme.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asciidoctor/atom-asciidoc-assistant.git"
+  },
+  "version": "0.2.2"
+}

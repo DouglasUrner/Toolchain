@@ -1,0 +1,76 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/d-118328-8484-1irikt7.uwyyv0wwmi/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/d-118328-8484-1irikt7.uwyyv0wwmi/package.tgz",
+        "spec": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/d-118328-8484-1irikt7.uwyyv0wwmi/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/apm-install-dir-118328-8484-p4lxpj.1iich7u8fr"
+    ]
+  ],
+  "_from": "../d-118328-8484-1irikt7.uwyyv0wwmi/package.tgz",
+  "_id": "autocomplete-asciidoc@0.1.2",
+  "_inCache": true,
+  "_location": "/autocomplete-asciidoc",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/d-118328-8484-1irikt7.uwyyv0wwmi/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/d-118328-8484-1irikt7.uwyyv0wwmi/package.tgz",
+    "spec": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/d-118328-8484-1irikt7.uwyyv0wwmi/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-118328-8484-1irikt7.uwyyv0wwmi/package.tgz",
+  "_shasum": "bd850af2336aa841202c403968c6c293a3e52186",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/d-118328-8484-1irikt7.uwyyv0wwmi/package.tgz",
+  "_where": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/apm-install-dir-118328-8484-p4lxpj.1iich7u8fr",
+  "bugs": {
+    "url": "https://github.com/asciidoctor/atom-autocomplete-asciidoc/issues"
+  },
+  "dependencies": {
+    "lodash": "~4.12.0",
+    "season": "^5.3"
+  },
+  "description": "AsciiDoc language autocompletions",
+  "devDependencies": {
+    "coffeelint": "^1.15.0"
+  },
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/asciidoctor/atom-autocomplete-asciidoc#readme",
+  "keywords": [
+    "asciidoctor",
+    "asciidoc",
+    "autocomplete"
+  ],
+  "license": "MIT",
+  "main": "lib/main",
+  "name": "autocomplete-asciidoc",
+  "optionalDependencies": {},
+  "providedServices": {
+    "autocomplete.provider": {
+      "versions": {
+        "2.0.0": "provide"
+      }
+    }
+  },
+  "readme": "# AsciiDoc Autocomplete Package\n\n[![Atom Package](https://img.shields.io/apm/v/autocomplete-asciidoc.svg)](https://atom.io/packages/autocomplete-asciidoc)\n[![Atom Package Downloads](https://img.shields.io/apm/dm/autocomplete-asciidoc.svg)](https://atom.io/packages/autocomplete-asciidoc)\n[![Build Status (Linux & OSX)](https://travis-ci.org/asciidoctor/atom-autocomplete-asciidoc.svg?branch=master)](https://travis-ci.org/asciidoctor/atom-autocomplete-asciidoc)\n[![Build status (Windows)](https://ci.appveyor.com/api/projects/status/p6xdgjq22n3gi2i8?svg=true)](https://ci.appveyor.com/project/asciidoctor/atom-autocomplete-asciidoc)\n[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/asciidoctor/atom-autocomplete-asciidoc/blob/master/LICENSE.md)\n\nAsciiDoc language autocompletions in Atom.\n\nUses the [autocomplete-plus](https://github.com/atom/autocomplete-plus) package.\n",
+  "readmeFilename": "readme.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asciidoctor/atom-autocomplete-asciidoc.git"
+  },
+  "version": "0.1.2"
+}
