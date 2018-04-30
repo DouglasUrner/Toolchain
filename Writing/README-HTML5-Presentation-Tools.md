@@ -100,6 +100,16 @@ To test:
 [zharley-reveal]: <http://zenonharley.com/html5/css3/2015/12/07/presentation-tools-for-programmers-reveal-js.html>
 [reveal-ck]: <https://jedcn.github.io/reveal-ck/>
 
+## [GitPitch][]
+
+Zero-configuration Reveal.js.
+
+[gitpitch]: <https://gitpitch.com>
+
+Presentations are available online at:
+
+`https://gitpitch.com/$user/$repo/$branch`
+
 ## How To
 
 ### Presenter Notes
@@ -123,7 +133,7 @@ Support both direct inclusion of a local file and the ability to pull a file fro
 ```markdown
 !include "GitHub URL | or local path" begin end
 ```
-Where *begin* and *end* are either line numbers or an ID in a magic comment that identifies the code to select. If they are missing then the whole file is included. 
+Where *begin* and *end* are either line numbers or an ID in a magic comment that identifies the code to select. If they are missing then the whole file is included.
 
 #### Syntax highlighting
 
