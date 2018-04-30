@@ -104,14 +104,19 @@ To test:
 
 Zero-configuration Reveal.js with extensions for displaying code and videos.
 
-Documentation is on the [GitPitch wiki][gitpitch-wiki].
+Presentations live in GitHub repositories, one to a repo (actually one to a branch). The presentation file names are fixed:
 
-[gitpitch]: <https://gitpitch.com>
-[gitpitch-wiki]: <https://github.com/gitpitch/gitpitch/wiki>
+* PITCHME.md - the presentation content
+* PITCHME.yaml - configuration options
 
 Presentations are available online at:
 
 `https://gitpitch.com/$user/$repo/$branch`
+
+Documentation is on the [GitPitch wiki][gitpitch-wiki].
+
+[gitpitch]: <https://gitpitch.com>
+[gitpitch-wiki]: <https://github.com/gitpitch/gitpitch/wiki>
 
 ## How To
 
