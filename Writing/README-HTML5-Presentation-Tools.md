@@ -102,9 +102,12 @@ To test:
 
 ## [GitPitch][]
 
-Zero-configuration Reveal.js.
+Zero-configuration Reveal.js with extensions for displaying code and videos.
+
+Documentation is on the [GitPitch wiki][gitpitch-wiki].
 
 [gitpitch]: <https://gitpitch.com>
+[gitpitch-wiki]: <https://github.com/gitpitch/gitpitch/wiki>
 
 Presentations are available online at:
 
