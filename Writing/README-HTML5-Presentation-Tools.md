@@ -11,6 +11,8 @@
 * Authoring support – ability to write slides in Markdown and, at least, a decent preview mode.
 * Generate PDF versions of the slides.
 
+http://jr0cket.co.uk/2014/01/share-your-revealjs-slides-on-github-pages.html
+
 ## [Reveal.js][revealjs]
 
 [revealjs]: <revealjs.com>
@@ -109,6 +111,9 @@ Presentations live in GitHub repositories, one to a repo (actually one to a bran
 * PITCHME.md - the presentation content
 * PITCHME.yaml - configuration options
 
+There is also a mechanism for supporting more than one presentation in a repository. In short: `https://gitpitch.com/user/repo/branch?p=folder-holding-presentation`
+In the folder the file names are still PITCHME (.md and .yaml).
+
 Presentations are available online at:
 
 `https://gitpitch.com/$user/$repo/$branch`
@@ -117,6 +122,14 @@ Documentation is on the [GitPitch wiki][gitpitch-wiki].
 
 [gitpitch]: <https://gitpitch.com>
 [gitpitch-wiki]: <https://github.com/gitpitch/gitpitch/wiki>
+
+### GitPitch Articles
+
+https://hackernoon.com/let-your-code-do-the-talking-983906a3a587
+
+https://blog.jayway.com/2015/03/30/using-git-commits-to-drive-a-live-coding-session/
+
+http://jr0cket.co.uk/2014/01/share-your-revealjs-slides-on-github-pages.html
 
 ## How To
 
