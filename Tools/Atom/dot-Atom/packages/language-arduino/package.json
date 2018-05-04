@@ -1,0 +1,58 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/d-11843-42902-1iu7of0.yviufmvx6r/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/d-11843-42902-1iu7of0.yviufmvx6r/package.tgz",
+        "spec": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/d-11843-42902-1iu7of0.yviufmvx6r/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/apm-install-dir-11843-42902-ae6a3k.0exo8byb9"
+    ]
+  ],
+  "_from": "../d-11843-42902-1iu7of0.yviufmvx6r/package.tgz",
+  "_id": "language-arduino@0.4.3",
+  "_inCache": true,
+  "_location": "/language-arduino",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/d-11843-42902-1iu7of0.yviufmvx6r/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/d-11843-42902-1iu7of0.yviufmvx6r/package.tgz",
+    "spec": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/d-11843-42902-1iu7of0.yviufmvx6r/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-11843-42902-1iu7of0.yviufmvx6r/package.tgz",
+  "_shasum": "fc9608e0c89894ca04889bd64da12071f6f67f76",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/d-11843-42902-1iu7of0.yviufmvx6r/package.tgz",
+  "_where": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/apm-install-dir-11843-42902-ae6a3k.0exo8byb9",
+  "bugs": {
+    "url": "https://github.com/szechyjs/language-arduino/issues"
+  },
+  "dependencies": {},
+  "description": "Atom language support for Arduino",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/szechyjs/language-arduino#readme",
+  "license": "MIT",
+  "name": "language-arduino",
+  "optionalDependencies": {},
+  "readme": "# Arduino language support in Atom\n\nAdds syntax highlighting and snippets to Arduino files in Atom.\n\nInherits C++ syntax from [language-c](https://atom.io/packages/language-c) package.\n\nContributions are greatly appreciated. Please fork this repository and open a\npull request to add snippets, make grammar tweaks, etc.\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szechyjs/language-arduino.git"
+  },
+  "version": "0.4.3"
+}

@@ -14,6 +14,11 @@ There seem to be two approaches to using the PlatformIO tools for Arduino develo
 * platformio package for Atom
 * terminal-plus package for Atom
 
+* language-arduino
+* language-ino
+
+* sermon - alternative to terminal-plus
+
 ## Installation
 
 1. Install the PlatformIO command line tools.

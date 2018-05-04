@@ -1,0 +1,59 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/d-11843-42926-1loczqw.ziephhyqfr/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/d-11843-42926-1loczqw.ziephhyqfr/package.tgz",
+        "spec": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/d-11843-42926-1loczqw.ziephhyqfr/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/apm-install-dir-11843-42926-68av1s.4vet7c766r"
+    ]
+  ],
+  "_from": "../d-11843-42926-1loczqw.ziephhyqfr/package.tgz",
+  "_id": "language-ino@0.2.0",
+  "_inCache": true,
+  "_location": "/language-ino",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/d-11843-42926-1loczqw.ziephhyqfr/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/d-11843-42926-1loczqw.ziephhyqfr/package.tgz",
+    "spec": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/d-11843-42926-1loczqw.ziephhyqfr/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-11843-42926-1loczqw.ziephhyqfr/package.tgz",
+  "_shasum": "c2eb784f0b1d5f79906603e5ef8482a2eeff6175",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/d-11843-42926-1loczqw.ziephhyqfr/package.tgz",
+  "_where": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/apm-install-dir-11843-42926-68av1s.4vet7c766r",
+  "bugs": {
+    "url": "https://github.com/cannikin/language-ino/issues"
+  },
+  "dependencies": {},
+  "description": "Atom language support for Arduino's INO files",
+  "devDependencies": {},
+  "engines": {
+    "atom": "*",
+    "node": "*"
+  },
+  "homepage": "https://github.com/cannikin/language-ino#readme",
+  "license": "MIT",
+  "name": "language-ino",
+  "optionalDependencies": {},
+  "readme": "# Arduino INO language support in Atom\n\nAdds syntax highlighting and snippets to INO files in Atom.\n\nCopied from the [language-c package](https://github.com/atom/language-c) for Atom which\nwas originally [converted](http://atom.io/docs/latest/converting-a-text-mate-bundle)\nfrom the [C TextMate bundle](https://github.com/textmate/c.tmbundle).\n\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cannikin/language-ino.git"
+  },
+  "version": "0.2.0"
+}
