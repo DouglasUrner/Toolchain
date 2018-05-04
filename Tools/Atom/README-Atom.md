@@ -33,7 +33,7 @@ The current strategy is to put the configuation files in dot-Atom which is withi
 
 1. [multi-theme-applicator][]
 2. Themes:
-  - pen-paper-coffe-syntax
+  - pen-paper-coffee-syntax
 3.
 
 [multi-theme-applicator]: <https://atom.io/packages/multi-theme-applicator>
