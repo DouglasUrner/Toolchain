@@ -29,6 +29,13 @@ The current strategy is to put the configuation files in dot-Atom which is withi
 * A coding syntax theme that takes works well with syntax highlighting, and
 * Possibly a presentation theme.
 
+### Install
+
+1. [multi-theme-applicator][]
+2. Themes:
+  - pen-paper-coffe-syntax
+3.
+
 [multi-theme-applicator]: <https://atom.io/packages/multi-theme-applicator>
 
 ## Fonts

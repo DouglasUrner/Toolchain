@@ -1,0 +1,90 @@
+// The ui-variables file is provided by base themes provided by Atom.
+//
+// See https://github.com/atom/atom-dark-ui/blob/master/styles/ui-variables.less
+// for a full listing of what's available.
+@import "ui-variables";
+
+.multi-theme-applicator {
+  #apply-theme-submit {
+    display:block;
+    margin:0 auto;
+    position:relative;
+    margin-top: 20px;
+  }
+
+  #close-modal-dialog {
+    float:right;
+    display:inline-block;
+    padding:2px 5px;
+    background:#ccc;
+
+  }
+
+  #close-modal-dialog:hover {
+    float:right;
+    display:inline-block;
+    padding:2px 5px;
+    background:#ccc;
+    color:#fff;
+
+  }
+
+  label {
+    display: inline;
+    position: relative;
+    padding-right: 10px;
+  }
+
+  select {
+    display: inline;
+    position: relative;
+  }
+
+  //Style the main input form
+  // Note: the width of the main popup dialog is fixed by atom itself.  You can shrink the size
+  // of the items in the form, but it won't affect the undelying panel popup panel size
+  //#input-form {
+  //  width: 300px;
+  //}
+  #input-form span.error {
+    display: inline-block;   
+    color: #9F6000;
+    background-color: #FEEFB3;
+    font-style: italic;
+    visibility: hidden;
+    height: 20px;
+  }
+
+  #input-form div.theme {
+    height: 30px;
+  }
+
+  #input-form div.scope {
+    align-items: left;
+    height: 30px;
+  }
+
+  #input-form div.scope input[type="radio"] {
+    margin-right: 0px;
+    margin-left: 10px;
+  }
+
+  #input-form div.scope label {
+    margin-right: 30px;
+  }
+
+  #input-form div.submit {
+    width: 75%;
+    margin: auto;
+  }
+
+
+  #input-form div.submit button[type='submit'] {
+    border: 2px solid #bbb;
+  }
+
+  #remove-scoped-theme {
+    float: right;
+  }
+
+}
