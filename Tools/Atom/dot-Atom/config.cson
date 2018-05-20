@@ -1,8 +1,12 @@
 "*":
+  Zen:
+    showWordCount: "Left"
+    softWrap: true
   core:
     disabledPackages: [
       "language-gfm"
     ]
+    packagesWithKeymapsDisabled: []
     telemetryConsent: "limited"
     themes: [
       "one-dark-ui"

@@ -2,39 +2,39 @@
   "_args": [
     [
       {
-        "raw": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/d-118328-8445-mhcl7b.y7nkceg66r/package.tgz",
+        "raw": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/d-118418-4873-k7tajh.tp8e4mfgvi/package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/d-118328-8445-mhcl7b.y7nkceg66r/package.tgz",
-        "spec": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/d-118328-8445-mhcl7b.y7nkceg66r/package.tgz",
+        "rawSpec": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/d-118418-4873-k7tajh.tp8e4mfgvi/package.tgz",
+        "spec": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/d-118418-4873-k7tajh.tp8e4mfgvi/package.tgz",
         "type": "local"
       },
-      "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/apm-install-dir-118328-8445-rmhl13.3cxnz2rzfr"
+      "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/apm-install-dir-118418-4873-1oiydq6.slox4oyldi"
     ]
   ],
-  "_from": "../d-118328-8445-mhcl7b.y7nkceg66r/package.tgz",
-  "_id": "asciidoc-preview@2.11.0",
+  "_from": "../d-118418-4873-k7tajh.tp8e4mfgvi/package.tgz",
+  "_id": "asciidoc-preview@2.12.1",
   "_inCache": true,
   "_location": "/asciidoc-preview",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/d-118328-8445-mhcl7b.y7nkceg66r/package.tgz",
+    "raw": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/d-118418-4873-k7tajh.tp8e4mfgvi/package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/d-118328-8445-mhcl7b.y7nkceg66r/package.tgz",
-    "spec": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/d-118328-8445-mhcl7b.y7nkceg66r/package.tgz",
+    "rawSpec": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/d-118418-4873-k7tajh.tp8e4mfgvi/package.tgz",
+    "spec": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/d-118418-4873-k7tajh.tp8e4mfgvi/package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:../d-118328-8445-mhcl7b.y7nkceg66r/package.tgz",
-  "_shasum": "2ae9b469f6710822b71b85c1cfe5b2eb69d1aab0",
+  "_resolved": "file:../d-118418-4873-k7tajh.tp8e4mfgvi/package.tgz",
+  "_shasum": "19f89527c2b9538205e5dad708a8f1f350989f5a",
   "_shrinkwrap": null,
-  "_spec": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/d-118328-8445-mhcl7b.y7nkceg66r/package.tgz",
-  "_where": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/apm-install-dir-118328-8445-rmhl13.3cxnz2rzfr",
+  "_spec": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/d-118418-4873-k7tajh.tp8e4mfgvi/package.tgz",
+  "_where": "/private/var/folders/yw/z380yj_56m7fr33srnxtszy40000gn/T/apm-install-dir-118418-4873-1oiydq6.slox4oyldi",
   "bugs": {
     "url": "https://github.com/asciidoctor/atom-asciidoc-preview/issues"
   },
@@ -215,7 +215,7 @@
     }
   },
   "dependencies": {
-    "asciidoctor.js": "1.5.5-1",
+    "asciidoctor.js": "1.5.6",
     "atom-space-pen-views": "~2.2.0",
     "cheerio": "~0.22.0",
     "font-awesome": "^4.7.0",
@@ -254,5 +254,5 @@
     "font-awesome",
     "asciidoc-preview"
   ],
-  "version": "2.11.0"
+  "version": "2.12.1"
 }
