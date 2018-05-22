@@ -27,6 +27,8 @@ Sometimes, especially if you are doing something fancy, the markup won't parse t
 
 * see **[diff][]**&#8203;erences between versions of files you are working on.
 
+[diff]: <https://git-scm.com/docs/git-diff>
+
 The HTML zero width space entity `&#8203;` can be used. Like this:
 
 ```markdown
