@@ -11,3 +11,12 @@ Better living through Markdown...
 ```html
 <img src="..." align="left">
 ```
+`align="right"` also works.
+
+**Scaling an image**
+
+```html
+<image src="..." width="50%">
+```
+
+Of course you can also set the height. Set just one to make the scaling proportional. Any legal CSS units can be used.
