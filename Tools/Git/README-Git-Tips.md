@@ -14,6 +14,9 @@ The commands on this side are to keep you out of trouble, the commands on the ba
    git commit -m "Added some text"
    git push
 ```
+## Best Practices
+
+### Frequent, Atomic Commits
 
 ## The most common Git mistakes
 
