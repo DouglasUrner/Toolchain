@@ -6,7 +6,8 @@
 
 ```bash
    git pull
-   # remote changes have now been received, so work on your project
+   # in sync with remote, so work on your project
+   git status
    git add file.txt
    git commit -m "Added some text"
    git push
