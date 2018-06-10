@@ -27,3 +27,5 @@ The commands on this side are to keep you out of trouble, the commands on the ba
 ### Unmerged changes (another person committed a change before you did, so you need to merge their changes first)
 
 ### Attempting to recover from a situation such as an accidental merge, and making the situation worse
+
+## [Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
