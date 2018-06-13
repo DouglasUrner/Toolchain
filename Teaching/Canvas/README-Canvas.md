@@ -12,3 +12,7 @@
 3. Set up the Mastery Path by selecting Mastery Path in the gear menu on the assessment that drives the Mastery Path.
 4. Adjust break points.
 5. Add Pathway tasks.
+
+## Rubrics
+
+[Importing Rubrics from a Spreadsheet](https://community.canvaslms.com/docs/DOC-8844)
