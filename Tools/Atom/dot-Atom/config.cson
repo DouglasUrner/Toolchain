@@ -18,6 +18,9 @@
     softWrapAtPreferredLineLength: true
   "exception-reporting":
     userId: "40f63122-e8fc-4683-ae31-5463dff33a75"
+  "linter-rust":
+    cargoCommand: "rustc"
+  "linter-ui-default": {}
   "markdown-pdf":
     format: "Letter"
   welcome:
