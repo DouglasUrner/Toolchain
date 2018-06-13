@@ -16,3 +16,9 @@
 ## Rubrics
 
 [Importing Rubrics from a Spreadsheet](https://community.canvaslms.com/docs/DOC-8844)
+
+Uses [Tampermonkey](http://tampermonkey.net) also [Release Notes(?)](http://tampermonkey.net/index.php?version=4.6.5757&ext=G3XV&updated=true).
+
+The script is [here](https://raw.githubusercontent.com/jamesjonesmath/canvancement/master/rubrics/import-rubric/import-rubric.user.js), it is part of [Canvancement](https://github.com/jamesjonesmath/canvancement).
+
+Installed by walking down the Canvancement file tree to the rubric importer and discovering that one of the links took me to a Tampermonkey install page.
