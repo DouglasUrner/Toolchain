@@ -6,8 +6,8 @@
 
 1. Create repository for content for Canvas.
 2. Enable GH Pages.
-3. README.md for info on the repositiory.
-4. index.md for the Canvas pages.
+3. `README.md` for info on the repositiory.
+4. `index.md` for the Canvas pages.
 5. Create an `_config.yml` with the contents:
 
    ``` yaml
