@@ -22,7 +22,7 @@
    ```HTML
    <p>
      <iframe src=""
-       width="100%" height="600px">
+       width="100%" height="666px">
      </iframe>
    </p>
    ```
