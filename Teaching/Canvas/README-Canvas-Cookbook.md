@@ -10,9 +10,9 @@
 4. index.md for the Canvas pages.
 5. Create an `_config.yml` with the contents:
 
-``` yaml
-remote_theme: douglasurner/canvas
-```   
+   ``` yaml
+   remote_theme: douglasurner/canvas
+   ```   
 
 **In Canvas:**
 
