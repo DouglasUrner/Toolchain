@@ -20,6 +20,9 @@ A couple of posts on setting up Atom as a writer's editor using Markdown:
 * [markdown-preview][]
 * [atom-csv-markdown][]
 * [markdown-table-editor][]
+* [table-editor][]
+* [tablr][]
+* [markdown-table-calc][]
 * [document-outline][]
 
 [atom-csv-markdown]: <https://atom.io/packages/atom-csv-markdown>
@@ -29,5 +32,8 @@ A couple of posts on setting up Atom as a writer's editor using Markdown:
 [markdown-pdf]: <https://atom.io/packages/markdown-pdf>
 [markdown-preview]: <https://atom.io/packages/markdown-preview>
 [markdown-scroll-sync]: <https://atom.io/packages/markdown-scroll-sync>
+[markdown-table-calc]: <https://atom.io/packages/markdown-table-calc>
 [markdown-table-editor]: <https://atom.io/packages/markdown-table-editor>
 [markdown-writer]: <https://atom.io/packages/markdown-writer>
+[table-editor]: <https://atom.io/packages/table-editor>
+[tablr]: <https://atom.io/packages/tablr>
