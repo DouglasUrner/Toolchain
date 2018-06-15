@@ -6,6 +6,9 @@
     disabledPackages: [
       "language-gfm"
       "language-ino"
+      "teletype"
+      "language-arduino"
+      "language-asciidoc"
     ]
     packagesWithKeymapsDisabled: []
     telemetryConsent: "limited"
@@ -20,7 +23,8 @@
     userId: "40f63122-e8fc-4683-ae31-5463dff33a75"
   "linter-rust":
     cargoCommand: "rustc"
-  "linter-ui-default": {}
+  "linter-ui-default":
+    showPanel: true
   "markdown-pdf":
     format: "Letter"
   welcome:
