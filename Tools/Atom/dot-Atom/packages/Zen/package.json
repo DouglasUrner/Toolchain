@@ -44,7 +44,7 @@
     "url": "https://github.com/defunkt/zen/issues"
   },
   "dependencies": {
-    "jquery": "2.x.x"
+    "jquery": "3.x.x"
   },
   "description": "Distraction free writing.",
   "devDependencies": {},
