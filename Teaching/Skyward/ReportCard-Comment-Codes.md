@@ -9,4 +9,8 @@
 | 5 | Hard worker |
 | 17 | Conduct needs improvement |
 | 18 | Capable, but disruptive |
+| 27 | Failed or did not submit final project |
+| 50 | Inconsistent in performance |
+| 51 | Inconsistent in effort |
+| 52 | Exhibits inappropriate behavior |
 | 53 | Absences affect grade |
