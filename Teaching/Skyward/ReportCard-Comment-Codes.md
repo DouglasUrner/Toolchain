@@ -9,3 +9,4 @@
 | 5 | Hard worker |
 | 17 | Conduct needs improvement |
 | 18 | Capable, but disruptive |
+| 53 | Absences affect grade |
