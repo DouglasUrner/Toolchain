@@ -21,9 +21,3 @@
 1. In the resulting [Tampermonkey][] window click on the `install` button.
 
 [tampermonkey]: <http://tampermonkey.net>
-
-### Rubrics
-
-[Importing Rubrics from a Spreadsheet](https://community.canvaslms.com/docs/DOC-8844)
-
-The script is [here](https://raw.githubusercontent.com/jamesjonesmath/canvancement/master/rubrics/import-rubric/import-rubric.user.js), it is part of [Canvancement](https://github.com/jamesjonesmath/canvancement).
