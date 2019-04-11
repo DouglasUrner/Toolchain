@@ -11,3 +11,9 @@ The script is [here](https://raw.githubusercontent.com/jamesjonesmath/canvanceme
 Importing Outcomes from a spreadsheet
 
 ## Exporting Grades For Skyward
+
+### Exporting from Canvas
+
+### Transforming
+
+### Importing to Skyward
