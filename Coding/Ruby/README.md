@@ -10,6 +10,15 @@
 
 #### Tools
 
+Test Gems:
+* MiniTest (built-in)
+* RSpec
+  - Capybara
+* FactoryGirl
+* Database Cleaner
+* Simplecov
+* VCR
+
 * [Reek](https://github.com/troessner/reek)
 * [SandiMeter](https://github.com/makaroni4/sandi_meter)
 
