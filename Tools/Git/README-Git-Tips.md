@@ -18,6 +18,8 @@ The commands on this side are to keep you out of trouble, the commands on the ba
 
 ## Best practices
 
+* [How you can go wrong with git](https://adityasridhar.com/posts/how-you-can-go-wrong-with-git)
+
 ### Frequent, atomic aommits
 
 ## The most common Git mistakes
