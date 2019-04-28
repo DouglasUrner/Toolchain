@@ -2,7 +2,7 @@
 
 This section is for "top level" notes and links on tools that are used across multiple projects and intents.
 
-## Git and GitHub
+## [Git and GitHub]()
 
 ## [Atom][]
 
