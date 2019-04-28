@@ -20,3 +20,5 @@
 ### Using Typescript
 
 ### Testing
+
+* [Rails 5 Test Prescriptions](https://pragprog.com/book/nrtest3/rails-5-test-prescriptions)
