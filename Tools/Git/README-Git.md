@@ -10,6 +10,12 @@
 **Take aways:**
 * Use ```-no-ff``` when merging into canonical branches to ensure an accurate history history and the ability to easily back out problematic merges.
 
+## How Tos:
+
+### Struturing Tutorials
+
+* [Using Git Tags To Version Coding Tutorials](https://medium.com/@emmawedekind/using-git-tags-to-version-coding-tutorials-cf9ff28fad4f)
+
 ## Useful Add-on Bits
 
 * Bash Command Completion Hooks
