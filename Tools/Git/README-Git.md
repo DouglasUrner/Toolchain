@@ -1,5 +1,14 @@
 # Git
 
+## Collaboration
+
+## Branching Strategies
+
+* [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+
+**Take aways:**
+* Use ```-no-ff``` when merging into canonical branches to ensure an accurate history history and the ability to easily back out problematic merges.
+
 ## Useful Add-on Bits
 
 * Bash Command Completion Hooks
