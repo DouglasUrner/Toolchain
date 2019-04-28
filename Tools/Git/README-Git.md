@@ -2,6 +2,9 @@
 
 ## Collaboration
 
+**Take aways:**
+* Every team member works on their own branch - if they are collaborating on a feature, create a feature branch and then individual branches off of the feature branch.
+
 ## Branching Strategies
 
 * [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
