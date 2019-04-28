@@ -2,7 +2,7 @@
 
 This section is for "top level" notes and links on tools that are used across multiple projects and intents.
 
-## [Atom][]
+## [Atom](https://github.com/DouglasUrner/Toolchain/tree/master/Tools/Atom)
 
 [atom]: <https://atom.io>
 
