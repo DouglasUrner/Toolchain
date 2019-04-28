@@ -5,6 +5,7 @@
 ## Branching Strategies
 
 * [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+  - Similar take from the Git book: [3.4 Git Branching - Branching Workflows](https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows).
 
 **Take aways:**
 * Use ```-no-ff``` when merging into canonical branches to ensure an accurate history history and the ability to easily back out problematic merges.
