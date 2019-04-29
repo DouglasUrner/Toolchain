@@ -11,7 +11,7 @@
 * [GFM][] - GitHub Flavored Markdown
 * MultiMarkdown
 
-* [gfm]: <https://github.github.com/gfm/>
+[gfm]: <https://github.github.com/gfm/>
 
 ## Markdown Processors
 
