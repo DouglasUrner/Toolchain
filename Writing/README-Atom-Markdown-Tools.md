@@ -14,7 +14,7 @@ A couple of posts on setting up Atom as a writer's editor using Markdown:
 
 ## Packages
 
-Default configuration (Atom 1.36.0):
+Default configuration (as of Atom 1.36.0):
 
 * [language-gfm][] - disabled automatically by [language-markdown][] which includes support for GFM.
 * [markdown-preview][]
