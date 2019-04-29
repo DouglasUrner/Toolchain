@@ -11,11 +11,11 @@
 * [GFM][] - GitHub Flavored Markdown
 * MultiMarkdown
 
-* [gfm]: https://github.github.com/gfm/
+* [gfm]: <https://github.github.com/gfm/>
 
 ## Markdown Processors
 
-* [kramdown][] -- kramdown is the Markdown processor used by GitHub Pages.
+* [kramdown][] - kramdown is the Markdown processor used by GitHub Pages.
 * [markdown-it][]
 
 [kramdown]: <https://kramdown.gettalong.org>
