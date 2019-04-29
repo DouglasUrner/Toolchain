@@ -5,19 +5,26 @@ A couple of posts on setting up Atom as a writer's editor using Markdown:
 * [Turn Atom into the Best Markdown Editor for Mac][1]
 * [Use Atom as your Markdown editor][2]
 * [Atom is the best Markdown editor for me][3]
+* [How to Set Up & Use Atom as a Markdown Editor][4] - 2017
 
 [1]: <https://www.news47ell.com/how-to/atom-best-markdown-editor-mac>
 [2]: <https://discountry.github.io/2017/02/15/use-atom-as-your-markdown-editor>
 [3]: <https://medium.com/@takezoe/atom-is-the-best-markdown-editor-for-me-76eec18d8185>
+[4]: <https://www.portent.com/blog/copywriting/content-strategy/atom-markdown.htm>
 
 ## Packages
 
-* [markdown-writer][]
+These are the core Markdown support packages:
+
 * [language-markdown][]
-* [markdown-scroll-sync][]
+* [markdown-writer][]
 * [markdown-folding][]
-* [markdown-pdf][]
 * [markdown-preview][]
+
+The packages below fill some useful niches:
+
+* [markdown-scroll-sync][]
+* [markdown-pdf][]
 * [atom-csv-markdown][]
 * [markdown-table-editor][]
 * [table-editor][]
