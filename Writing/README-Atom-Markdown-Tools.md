@@ -16,15 +16,15 @@ A couple of posts on setting up Atom as a writer's editor using Markdown:
 
 Default configuration (Atom 1.36.0):
 
-* [language-gfm][]
+* [language-gfm][] - disabled automatically by [language-markdown][] which includes support for GFM.
 * [markdown-preview][]
 
 These are the core Markdown support packages:
 
-* [language-markdown][]
+* [language-markdown][] - 
 * [markdown-writer][]
 * [markdown-folding][]
-* [markdown-preview][]
+* [markdown-preview][] - core package.
 
 The packages below fill some useful niches:
 
