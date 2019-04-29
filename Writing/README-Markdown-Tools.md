@@ -8,10 +8,10 @@
 
 ### Markdown Flavors
 
-* GFM
+* [GFM][] - GitHub Flavored Markdown
 * MultiMarkdown
 
-* [GFM]: GitHub Flavored Markdown
+* [gfm]: https://github.github.com/gfm/
 
 ## Markdown Processors
 
