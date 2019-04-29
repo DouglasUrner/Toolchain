@@ -8,9 +8,11 @@
 
 ### Markdown Flavors
 
+* John Gruber's [original Markdown post][gruber] on Daring Fireball.
 * [GFM][] - GitHub Flavored Markdown
 * MultiMarkdown
 
+[gruber]: <https://daringfireball.net/projects/markdown/>
 [gfm]: <https://github.github.com/gfm/>
 
 ## Markdown Processors
