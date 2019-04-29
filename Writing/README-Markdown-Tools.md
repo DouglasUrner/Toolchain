@@ -25,6 +25,8 @@
 
 * [Assemble][]
 * [MarkdownPP][md-pp]
+* [Pandoc][]
 
 [assemble]: <http://assemble.io/docs/Markdown.html>
 [md-pp]: <>
+[pandoc]: <>
