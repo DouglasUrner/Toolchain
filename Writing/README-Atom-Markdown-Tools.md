@@ -14,6 +14,11 @@ A couple of posts on setting up Atom as a writer's editor using Markdown:
 
 ## Packages
 
+Default configuration (Atom 1.36.0):
+
+* [language-gfm][]
+* [markdown-preview][]
+
 These are the core Markdown support packages:
 
 * [language-markdown][]
@@ -34,6 +39,7 @@ The packages below fill some useful niches:
 
 [atom-csv-markdown]: <https://atom.io/packages/atom-csv-markdown>
 [document-outline]: <https://atom.io/packages/document-outline>
+[language-gfm]: <https://atom.io/packages/language-gfm>
 [language-markdown]: <https://atom.io/packages/language-markdown>
 [markdown-folding]: <https://atom.io/packages/markdown-folding>
 [markdown-pdf]: <https://atom.io/packages/markdown-pdf>
