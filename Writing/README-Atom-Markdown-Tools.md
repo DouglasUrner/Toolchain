@@ -23,6 +23,7 @@ These are the core Markdown support packages:
 
 * [language-markdown][] - 
 * [markdown-writer][]
+  - [toolbar-markdown-writer][]
 * [markdown-folding][]
 * [markdown-preview][] - core package.
 
@@ -50,3 +51,4 @@ The packages below fill some useful niches:
 [markdown-writer]: <https://atom.io/packages/markdown-writer>
 [table-editor]: <https://atom.io/packages/table-editor>
 [tablr]: <https://atom.io/packages/tablr>
+[toolbar-markdown-writer]: <>
