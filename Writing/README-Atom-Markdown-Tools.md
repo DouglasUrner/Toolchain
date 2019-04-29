@@ -29,14 +29,17 @@ These are the core Markdown support packages:
 
 The packages below fill some useful niches:
 
-* [markdown-scroll-sync][]
+* [markdown-scroll-sync][] - makes the preview track your positon in the edit window.
 * [markdown-pdf][]
+* [document-outline][]
+
+Table support:
+
 * [atom-csv-markdown][]
 * [markdown-table-editor][]
 * [table-editor][]
 * [tablr][]
 * [markdown-table-calc][]
-* [document-outline][]
 
 [atom-csv-markdown]: <https://atom.io/packages/atom-csv-markdown>
 [document-outline]: <https://atom.io/packages/document-outline>
