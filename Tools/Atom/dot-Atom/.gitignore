@@ -1,7 +1,9 @@
+.apm
+.DS_Store
+.node-gyp
+.npm
 blob-store
 compile-cache
 dev
+#packages
 storage
-.apm
-.node-gyp
-.npm
