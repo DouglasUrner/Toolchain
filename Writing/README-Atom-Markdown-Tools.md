@@ -18,6 +18,7 @@ Default configuration (as of Atom 1.36.0):
 
 * [language-gfm][] - disabled automatically by [language-markdown][] which includes support for GFM.
 * [markdown-preview][]
+  - There is a PR (#516) to automatically open and close preview panes - I don't think it is exactly what I want (maintain one preview pane that shows the currently focused Markdown document), but it sounds close. Install patch and test.
 
 These are the core Markdown support packages:
 
