@@ -9,6 +9,11 @@ Notes specific to [writing][atom-writing] and [coding][] with Atom are in their 
 [coding]: <https://github.com/DouglasUrner/Toolchain/tree/master/Coding>
 [atom-writing]: <https://github.com/DouglasUrner/Toolchain/blob/master/Writing/README-Atom-Markdown-Tools.md>
 
+## Developing Atom Packages
+
+* [Create Your First Atom Package](https://blog.eleven-labs.com/en/create-atom-package/)
+* [How to Write Atom Packages Using Vanilla JavaScript](https://www.sitepoint.com/write-atom-packages-using-vanilla-javascript/)
+
 ## Configuration Management
 
 **Goals:**
