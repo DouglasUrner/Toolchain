@@ -1,11 +1,13 @@
 # General Notes on [Atom][]
 
-Notes specific to writing and coding with Atom are in their respective sections.
-
 [Atom Flight Manual][afm] - user's and hacker's manual for Atom.
+
+Notes specific to [writing][atom-writing] and [coding][atom-coding] with Atom are in their respective sections of this repository.
 
 [atom]: <atom.io>
 [afm]: <https://flight-manual.atom.io>
+[atom-coding]: <>
+[atom-writing]: <>
 
 ## Configuration Management
 
@@ -24,6 +26,7 @@ The current strategy is to put the configuation files in dot-Atom which is withi
 * Put .atom under revision control
 * Atom packages
 * External build management tool
+* Portable Atom
 
 ## Themes
 
@@ -38,7 +41,7 @@ The current strategy is to put the configuation files in dot-Atom which is withi
 
 1. [multi-theme-applicator][]
 2. Themes:
-  - pen-paper-coffee-syntax
+   - pen-paper-coffee-syntax
 3.
 
 [multi-theme-applicator]: <https://atom.io/packages/multi-theme-applicator>
