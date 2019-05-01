@@ -1,6 +1,11 @@
-# General Notes on Atom
+# General Notes on [Atom][]
 
 Notes specific to writing and coding with Atom are in their respective sections.
+
+[Atom Flight Manual][afm] - user's and hacker's manual for Atom.
+
+[atom]: <atom.io>
+[afm]: <https://flight-manual.atom.io>
 
 ## Configuration Management
 
