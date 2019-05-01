@@ -2,12 +2,12 @@
 
 [Atom Flight Manual][afm] - user's and hacker's manual for Atom.
 
-Notes specific to [writing][atom-writing] and [coding][atom-coding] with Atom are in their respective sections of this repository.
+Notes specific to [writing][atom-writing] and [coding][] with Atom are in their respective sections of this repository.
 
 [atom]: <atom.io>
 [afm]: <https://flight-manual.atom.io>
-[atom-coding]: <>
-[atom-writing]: <>
+[coding]: <https://github.com/DouglasUrner/Toolchain/tree/master/Coding>
+[atom-writing]: <https://github.com/DouglasUrner/Toolchain/blob/master/Writing/README-Atom-Markdown-Tools.md>
 
 ## Configuration Management
 
