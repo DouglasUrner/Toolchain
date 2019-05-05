@@ -14,7 +14,7 @@ Test Gems:
 * MiniTest (built-in)
 * [Rspec](http://rspec.info)
   - Capybara
-* FactoryGirl
+* [Factory Bot](https://github.com/thoughtbot/factory_bot) - test fixture generator
 * Database Cleaner
 * Simplecov
 * VCR
