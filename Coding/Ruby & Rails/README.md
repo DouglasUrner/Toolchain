@@ -37,3 +37,4 @@ Test Gems:
 ### Rspec
 
 * [rspec-rails](https://github.com/rspec/rspec-rails)
+* [factory_bot_rails](https://github.com/thoughtbot/factory_bot_rails)
