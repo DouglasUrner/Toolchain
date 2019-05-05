@@ -19,6 +19,8 @@ Test Gems:
 * Simplecov
 * VCR
 
+"Odor detectors:"
+
 * [Reek](https://github.com/troessner/reek)
 * [SandiMeter](https://github.com/makaroni4/sandi_meter)
 
