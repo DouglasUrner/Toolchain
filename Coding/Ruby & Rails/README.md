@@ -12,7 +12,7 @@
 
 Test Gems:
 * MiniTest (built-in)
-* RSpec
+* [Rspec](http://rspec.info)
   - Capybara
 * FactoryGirl
 * Database Cleaner
