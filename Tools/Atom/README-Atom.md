@@ -11,6 +11,7 @@ Notes specific to [writing][atom-writing] and [coding][] with Atom are in their 
 
 ## Developing Atom Packages
 
+* [Flight Manual: Hacking Atom](https://flight-manual.atom.io/hacking-atom/)
 * [Create Your First Atom Package](https://blog.eleven-labs.com/en/create-atom-package/)
 * [How to Write Atom Packages Using Vanilla JavaScript](https://www.sitepoint.com/write-atom-packages-using-vanilla-javascript/)
 
@@ -31,7 +32,7 @@ The current strategy is to put the configuation files in dot-Atom which is withi
 * Put .atom under revision control
 * Atom packages
 * External build management tool
-* Portable Atom
+* Atom's Portable Mode
 
 ## Themes
 
