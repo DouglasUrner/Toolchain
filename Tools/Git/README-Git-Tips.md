@@ -20,7 +20,7 @@ The commands on this side are to keep you out of trouble, the commands on the ba
 
 * [How you can go wrong with git](https://adityasridhar.com/posts/how-you-can-go-wrong-with-git)
 
-### Frequent, atomic aommits
+### Frequent, atomic commits
 
 ## The most common Git mistakes
 
