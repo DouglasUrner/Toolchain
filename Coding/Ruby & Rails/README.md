@@ -44,3 +44,5 @@ Test Gems:
 ### Hosting
 
 * [Heroku](https://heroku.com) - free for one site with moderate traffic volumes.
+  - [Dashboard](https://dashboard.heroku.com/apps)
+  - [Getting Started Guide for Ruby](https://devcenter.heroku.com/articles/getting-started-with-ruby)
