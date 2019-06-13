@@ -30,11 +30,15 @@ Test Gems:
 
 ### Using Typescript
 
+### Using Coffeescript
+
 ### Testing
 
 * [Rails 5 Test Prescriptions](https://pragprog.com/book/nrtest3/rails-5-test-prescriptions)
 
-### Rspec
+#### Rspec
 
 * [rspec-rails](https://github.com/rspec/rspec-rails)
 * [factory_bot_rails](https://github.com/thoughtbot/factory_bot_rails)
+
+### Hosting
