@@ -43,4 +43,4 @@ Test Gems:
 
 ### Hosting
 
-* [Heroku]https://heroku.com) - free for one site with moderate traffic volumes.
+* [Heroku](https://heroku.com) - free for one site with moderate traffic volumes.
