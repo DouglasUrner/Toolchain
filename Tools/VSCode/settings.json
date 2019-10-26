@@ -1,0 +1,11 @@
+{
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "editor.tabSize": 2,
+    "workbench.enableExperiments": false,
+    "workbench.activityBar.visible": false,
+    "workbench.editor.highlightModifiedTabs": true,
+    "extensions.showRecommendationsOnlyOnDemand": true,
+    "terminal.integrated.macOptionIsMeta": true,
+    "omnisharp.enableEditorConfigSupport": true
+}
