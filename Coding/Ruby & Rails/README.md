@@ -4,6 +4,15 @@
 
 ### Installing
 
+Use Homebrew.
+
+#### Upgrading
+
+```sh
+brew update         # make sure formulas are up to date
+brew upgrade ruby
+```
+
 ### IDEs
 
 ### Testing
@@ -25,6 +34,10 @@ Test Gems:
 * [SandiMeter](https://github.com/makaroni4/sandi_meter)
 
 ## Rails
+
+### Installing
+
+### Starting A Project
 
 ### Databases
 
