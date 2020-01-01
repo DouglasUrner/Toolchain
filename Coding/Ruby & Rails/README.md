@@ -33,7 +33,7 @@ Test Gems:
 * [Reek](https://github.com/troessner/reek)
 * [SandiMeter](https://github.com/makaroni4/sandi_meter)
 
-## Rails
+## [Rails](https://rubyonrails.org)
 
 ### Installing
 
