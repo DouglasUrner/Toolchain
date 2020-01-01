@@ -7,4 +7,5 @@
 
 1. Install [Atom](Tools/Editors/Atom/README-Atom.md)
 1. Install [Node]()
+1. Install [Yarn]()
 1. Install [Rails]()
