@@ -4,6 +4,8 @@
 
 ### Installing
 
+An oldish version of Ruby is installed by default. To run Rails you need at least 2.5. Homebrew will install this "keg only" so Ruby will need to be added to your path.
+
 Use Homebrew.
 
 #### Upgrading
