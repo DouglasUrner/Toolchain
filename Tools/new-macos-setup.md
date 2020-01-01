@@ -4,4 +4,5 @@
 
    This will also install the Xcode commandline tools, which includes a version of Git (which is unlikely to be the latest).
 
-1. Install [Atom]()
+1. Install [Atom](Tools/Editors/Atom/README-Atom.md)
+1. Install [Rails]()
