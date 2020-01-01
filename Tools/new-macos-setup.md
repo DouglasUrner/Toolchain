@@ -1,3 +1,5 @@
 # Setting up a new macOS machine
 
 1. Install [Homebrew](Homebrew/README-Homebrew.md)
+
+   This will also install the Xcode commandline tools, which includes a version of Git (which is unlikely to be the latest).
