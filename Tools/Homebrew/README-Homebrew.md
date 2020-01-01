@@ -11,6 +11,10 @@
 
 ## Cheatsheet
 
+### Installing
+
+### Common Commands
+
 * `brew install formula`
 * `brew search _string_` - look for formulae matching string.
 * `brew update` - update Homebrew
