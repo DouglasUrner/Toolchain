@@ -1,1 +1,1 @@
-[Mermaid.js](https://mermaid-js.github.io/mermaid/#/)
+[Mermaid.js](https://mermaid-js.github.io/mermaid)
