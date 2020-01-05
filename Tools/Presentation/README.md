@@ -6,4 +6,4 @@
 
 ## Charts & Diagrams
 
-* [Mermaid.js](https://mermaid-js.github.io/mermaid)
+* [Mermaid.js](mermaid.md)
