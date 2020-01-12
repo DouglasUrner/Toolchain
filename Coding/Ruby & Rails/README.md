@@ -35,6 +35,8 @@ Test Gems:
 * [Reek](https://github.com/troessner/reek)
 * [SandiMeter](https://github.com/makaroni4/sandi_meter)
 
+## [Bundler](https://bundler.io)
+
 ## [Rails](https://rubyonrails.org)
 
 ### Installing
