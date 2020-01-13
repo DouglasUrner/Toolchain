@@ -1,4 +1,13 @@
-# Git
+# [Git](https://git-scm.org)
+
+**Global .gitignore:**
+
+[gitignore.io](https://gitignore.io) can generate a .gitignore for any occasion.
+
+```sh
+touch ~/.gitignore
+git config --global core.excludesfile '~/.gitignore'
+```
 
 ## Collaboration
 
