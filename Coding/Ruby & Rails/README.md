@@ -55,6 +55,8 @@ Test Gems:
 
 ### Using Typescript
 
+[typescript-ruby/typescript-rails](https://github.com/typescript-ruby/typescript-rails)
+
 ### Using Coffeescript
 
 ### Testing
