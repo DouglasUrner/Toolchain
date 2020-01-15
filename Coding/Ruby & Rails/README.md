@@ -29,14 +29,21 @@ brew upgrade ruby
 
 #### Tools
 
-Test Gems:
+##### Test Gems
+
+**"Standard Kit:"**
+
 * MiniTest (built-in)
+
+**Commonly Used:**
+
 * [Rspec](http://rspec.info)
-  - Capybara
+* [Capybara]()
 * [Factory Bot](https://github.com/thoughtbot/factory_bot) - test fixture generator
 * Database Cleaner
 * Simplecov
 * VCR
+* [Mutant (mbj/mutant)](https://github.com/mbj/mutant) - "mutates" your code and reruns your tests so that you can verify your test design and coverage. Works with Rspec and MiniTest.
 
 "Odor detectors:"
 
@@ -61,7 +68,12 @@ Test Gems:
 
 ### Testing
 
+* [15 TDD steps to create a Rails application](http://andrzejonsoftware.blogspot.com/2007/05/15-tdd-steps-to-create-rails.html)
 * [Rails 5 Test Prescriptions](https://pragprog.com/book/nrtest3/rails-5-test-prescriptions)
+
+#### MiniTest
+
+
 
 #### Rspec
 
