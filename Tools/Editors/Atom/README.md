@@ -4,6 +4,8 @@
 
 Notes specific to [writing][atom-writing] and [coding][] with Atom are in their respective sections of this repository.
 
+[Atom Tricks for Ruby Developers](https://www.rubyguides.com/2017/11/atom-tricks-for-ruby-developers/)
+
 [atom]: <atom.io>
 [afm]: <https://flight-manual.atom.io>
 [coding]: <https://github.com/DouglasUrner/Toolchain/tree/master/Coding>
