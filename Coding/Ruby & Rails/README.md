@@ -69,7 +69,9 @@ brew upgrade ruby
 ### Testing
 
 * [15 TDD steps to create a Rails application](http://andrzejonsoftware.blogspot.com/2007/05/15-tdd-steps-to-create-rails.html)
+* [How to waste time on TDD](http://andrzejonsoftware.blogspot.com/2012/06/how-to-waste-time-on-tdd.html)
 * [Rails 5 Test Prescriptions](https://pragprog.com/book/nrtest3/rails-5-test-prescriptions)
+* [mutant and minitest within a Rails application](http://andrzejonsoftware.blogspot.com/2015/12/mutant-and-minitest-within-rails.html)
 
 #### MiniTest
 
