@@ -23,6 +23,10 @@ brew update         # make sure formulas are up to date
 brew upgrade ruby
 ```
 
+### Gems
+
+[Ruby Gems](https://rubygems.org)
+
 ### IDEs
 
 ### Testing
