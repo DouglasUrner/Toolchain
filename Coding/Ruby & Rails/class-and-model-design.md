@@ -4,6 +4,12 @@
 
 Modules may be included in a class to add the behaviors of the defined in the module to the class. A class may include multiple modules.
 
+#### References
+
+* [Tutorial: Classes, Inheritance, Modules and Mixins in Ruby on Rails](https://www.webascender.com/blog/tutorial-classes-inheritance-modules-mixins-ruby-rails/) (2016)
+* [Where to put Rails modules](https://www.codewithjason.com/put-rails-modules/) (2018) - TL;DR modules in `lib`, add `    config.eager_load_paths += %W(#{config.root}/lib)` to `config/application.rb` to handle loading your modules (mixins).
+* [Ruby does not support Multiple Inheritance. Ruby uses Mixin instead](http://techenthu.in/2017/09/14/ruby-not-support-multiple-inheritance-ruby-uses-mixin-instead/) (2017)
+
 ### Single-table Inheritance (STI), Multi-table Inheritance (MTI), and Polymorphism
 
 #### STI
